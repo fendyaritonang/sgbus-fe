@@ -1,0 +1,7 @@
+{
+  "name": "sgbus-fe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
